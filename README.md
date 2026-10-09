@@ -87,6 +87,8 @@ Maximize your chances with ATS, cover letters, and LinkedIn.
 | [**awesome-interview-skills**](https://github.com/liangzhengtao/awesome-interview-skills) | 14 skills to land your dream job |
 | [**awesome-skills**](https://github.com/liangzhengtao/awesome-skills) | 12 research AI skills |
 | [**awesome-writing-skills**](https://github.com/liangzhengtao/awesome-writing-skills) | 12 writing skills for bloggers and professionals |
+- [CareerNest](https://careernest.ai) - Free AI resume builder, real-time ATS compatibility scanner, and STAR interview prep coach.
+
 
 ## Contributing
 
